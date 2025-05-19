@@ -1,5 +1,5 @@
 Datenschutzerklärung für die App "Domexa"
-Stand: [heutiges Datum]
+Stand: 19.05.2025
 
 1. Allgemeines
 Der Schutz Ihrer Daten ist uns wichtig. Die App Domexa funktioniert vollständig offline. Es werden keinerlei personenbezogene Daten erhoben, gespeichert oder übertragen.
@@ -7,8 +7,8 @@ Der Schutz Ihrer Daten ist uns wichtig. Die App Domexa funktioniert vollständig
 2. Verantwortlicher
 Da keine Daten verarbeitet werden, ist kein Verantwortlicher im Sinne der DSGVO erforderlich. Bei Fragen können Sie uns dennoch kontaktieren:
 
-[Firma / Entwicklername]
-[Adresse oder E-Mail-Adresse]
+Rick & Bogdan
+i3ogdan98@gmail.com
 
 3. Datenerfassung
 Die App erfasst oder überträgt keinerlei Daten an Dritte oder Server. Alle Inhalte (z. B. Immobilieninformationen) werden ausschließlich lokal auf Ihrem Gerät gespeichert.

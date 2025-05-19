@@ -1,0 +1,48 @@
+Privacy Policy for Real Estate Management App
+Last Updated: 19-05-2025
+Thank you for using Domexa ("the App"), developed by Ribo ("we," "us," or "our"). This Privacy Policy explains how we handle information in relation to your use of the App.
+1. Information We Do Not Collect
+The App is designed to function primarily as a local utility on your device. As of the "Last Updated" date:
+No Personal Identification Information: We do not collect, store, or transmit any personal identification information that directly identifies you, such as your name (beyond what you input into the app for your own records), email address, phone number, or precise geographic location from you automatically. All such data you enter (e.g., property names, renter details, financial figures) is stored locally on your device only.
+No User Accounts: The App does not require user registration or the creation of an online account.
+No Server-Side Storage: All data you input into the App, including property details, unit information, renter information, lease agreements, payment records, expense records, and associated images, is stored exclusively on your device's local storage. We do not have access to this data, nor is it transmitted to any external servers controlled by us.
+No Usage Analytics (by Us): We do not collect analytics data about how you use the App (e.g., features used, session duration) for our own purposes.
+2. Information Stored Locally on Your Device
+The App stores the following types of information, as entered and managed by you, directly on your device:
+Property Data: Details about real estate properties, including names, addresses, types, purchase information, notes, and paths to locally stored property images.
+Unit Data: Details about individual units within properties, including names/numbers, types, and notes.
+Renter Data: Information about renters, including names, contact details, move-in dates, and notes.
+Lease Data: Terms of lease agreements, including links to units and renters, rent amounts, due dates, lease periods, security deposits, and notes.
+Payment Data: Records of rent payments received, including dates, amounts, methods, and notes.
+Expense Data: Records of expenses, including dates, categories, amounts, vendors, descriptions, and (in the future, if implemented) paths to locally stored receipt images.
+Property Images: Paths to image files that you select and associate with properties, which are copied to and stored within the App's private storage on your device.
+App Settings/Preferences: User-configurable settings such as theme preference (light/dark mode) and currency symbol are stored locally on your device using your device's standard preference storage mechanisms.
+This data is under your control and resides solely on your device unless you manually export or back it up elsewhere.
+3. How Your Information Is Used (Locally)
+The information you enter and store locally is used solely for the functioning of the App to help you:
+Manage your real estate portfolio.
+Track renters and lease terms.
+Manage rent payments and dues.
+Record and categorize expenses.
+View summaries and basic reports related to your real estate activities.
+Customize your app experience (e.g., theme).
+4. Permissions
+The App may request the following permissions on your device, solely for its intended functionality:
+Storage Access (Photos/Media/Files):
+Purpose for image_picker (Gallery): To allow you to select images from your device's gallery to associate with properties (and potentially expenses in the future). The App copies selected images into its own private storage area on your device.
+Purpose for image_picker (Camera): If you choose to use the camera feature within the app, this permission is required to take photos to associate with properties (and potentially expenses). These photos are then copied to the App's private storage.
+The App does not require network access to perform its core functions of managing your locally stored real estate data.
+5. Data Security (Local Data)
+While we do not transmit your data, the security of the data stored locally on your device is your responsibility and depends on the security measures of your device's operating system and your own practices (e.g., device passcodes, encryption if enabled on your device). The App stores data in its standard application-specific storage location provided by the operating system.
+6. Third-Party Services
+The App is built using the Flutter framework. Flutter itself, and certain plugins used for core functionality (like shared_preferences for settings or image_picker for accessing the system's image selection UI), may have their own underlying operational data or interact with system services. However, the App itself does not intentionally share your inputted real estate data with any third-party services for analytics, advertising, or other purposes.
+7. Children's Privacy
+The App is not intended for use by children under the age of 13 (or the equivalent minimum age in your jurisdiction). We do not knowingly collect any information from children. If you believe a child has provided us with information, please contact us so we can address the issue.
+8. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy within the App or on our store listing. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted.
+9. Your Consent
+By using the App, you consent to this Privacy Policy.
+10. Contact Us
+If you have any questions about this Privacy Policy, please contact us at:
+[Your Email Address for Support/Privacy Questions]
+[Optional: Your Website or a Link to where this policy is hosted]
